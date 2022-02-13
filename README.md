@@ -1,4 +1,4 @@
-# ml-with-me
+# Machine Learning with Me
 
 Iseng-iseng eksplor Machine Learning dengan menggunakan library Scikit-Learn.
 
