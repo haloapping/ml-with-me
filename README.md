@@ -1,4 +1,4 @@
-<img src="../images/ml.jpg" width="500">
+<img src="images/ml.jpg" width="500">
 
 # Machine Learning with Me
 
