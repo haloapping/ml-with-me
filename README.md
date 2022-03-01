@@ -1,3 +1,5 @@
+<img src="../images/ml.jpg" width="500">
+
 # Machine Learning with Me
 
 Iseng-iseng eksplor Machine Learning dengan menggunakan library Scikit-Learn.
@@ -10,5 +12,5 @@ Iseng-iseng eksplor Machine Learning dengan menggunakan library Scikit-Learn.
 # Instructions
 
 - Make sure Anaconda installed, if you don't have, you can refer this link https://www.anaconda.com/products/individual to install Anaconda.
-- Install env-spec.txt with run command `conda create --name [your_name_env] --file env-spec.txt`
+- Install env-spec.txt with run command `conda create --name [your_env_name] --file env-spec.txt`
 - Finish and enjoy.
